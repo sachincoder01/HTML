@@ -1,0 +1,97 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing:border-box;
+}
+.heading{
+    text-align: center;
+    margin-top: 0%;
+    background-color: #900C3F;
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.asay{
+    color: white;
+    background-image:url("C:/Users/Sachin Rajput/OneDrive/Desktop/sachin html/image1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size: 30px;
+   height: 500px;
+
+   
+   
+}
+.Container{
+    background-color: rgba(0, 0, 0, 0.678);
+    height: 500px;
+    padding: 80px 50px;
+    display: flex;      
+  
+}
+.Container-text p{
+    text-align: justify ;
+    width: 300px;
+    font-size: 20px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+   
+}
+    
+.Container-text a{
+    padding: 20px;
+    text-decoration: none;
+}
+.heading2{
+    justify-content: space-between;
+}
+.menubar{
+    list-style-type: none;
+    display: flex;
+    justify-content:space-between;  
+    width: 200px;
+    color: white;
+    
+}
+
+
+.menubar li a{
+    text-decoration:none;
+    color:blue;
+
+}
+.login{
+    border: 3px solid rgba(219, 202, 202, 0.4);
+    text-align: center;
+    padding: 100px;
+    width: 400px;
+    height: 400px;
+
+  
+    background-color: rgba(48, 48, 121, 0.55);
+    
+}.user{
+    font-size: 20px;
+  
+}
+.button a{
+    border: white 1px solid;
+    padding: 0px 30px 0px 30px;
+}
+
+
+
+h6 a{
+    color: rgb(202, 202, 236);
+    text-decoration:none;
+}
+.forget a{
+    color: azure;
+    text-decoration: none;
+}
